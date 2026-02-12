@@ -144,9 +144,9 @@ Estudio autónomo continuo para mantenerme actualizado en nuevas tecnologías:
 
 <div align="center">
 
-| 🔒 Seguridad WordPress |  🧩 Plugins Custom  |       🚀 Optimización       |
-| :--------------------: | :-----------------: | :-------------------------: |
-| Auditorías y hardening | Soluciones a medida | Performance & escalabilidad |
+| 🔒 Seguridad WordPress |  🧩 Plugins Custom  | 🎓 Experto en Moodle |       🚀 Optimización       |
+| :--------------------: | :-----------------: | :------------------: | :-------------------------: |
+| Auditorías y hardening | Soluciones a medida |  Gestión e-learning  | Performance & escalabilidad |
 
 </div>
 
