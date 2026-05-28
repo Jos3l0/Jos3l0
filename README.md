@@ -214,9 +214,9 @@ Implementación de WordPress como CMS headless.
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-eight-eta.vercel.app/api?username=Jos3l0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-stats-nine.vercel.app/api?username=Jos3l0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-eight-eta.vercel.app/api/top-langs/?username=Jos3l0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+![Top Languages](https://github-stats-nine.vercel.app/api/top-langs?username=Jos3l0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
 </div>
 
